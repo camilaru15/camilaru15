@@ -1,4 +1,12 @@
 
+<p align="center">
+  <img
+    src="assets/banner-github.png"
+    alt="María Camila Rueda Cano — Data Analytics, Python, Power BI, IA y SIG"
+    width="100%"
+  />
+</p>
+
 <h1 align="center">¡Hola! Soy María Camila Rueda Cano 👋</h1>
 
 <h3 align="center">
