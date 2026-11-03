@@ -69,27 +69,53 @@ generativa y geotecnología.
 
 ## 🚀 Proyectos destacados
 
-### CRM inteligente para consultoras de belleza
-Aplicación orientada a la gestión de clientes y al seguimiento
-comercial, con funcionalidades de análisis de información.
 
-[Ver proyecto](https://github.com/camilaru15/crm-inteligente-consultoras-belleza)
 
-### MK Sales Assistant
-Asistente basado en inteligencia artificial generativa y
-recuperación de información mediante RAG.
+## 🚀 Proyectos destacados
 
-[Ver proyecto](https://github.com/camilaru15/MK-Sales-Assistant)
-
-### Análisis del turismo en Europa
-Proyecto de exploración y análisis de datos turísticos.
-
-[Ver proyecto](https://github.com/camilaru15/proyecto_turismo_Europa)
-
-### Machine Learning con Online Retail
-Proyecto de aprendizaje automático aplicado a datos comerciales.
-
-[Ver proyecto](https://github.com/camilaru15/proyectoModularML)
+<table>
+  <tr>
+    <th>Proyecto</th>
+    <th>Descripción</th>
+    <th>Tecnologías</th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/camilaru15/crm-inteligente-consultoras-belleza">
+        CRM inteligente
+      </a>
+    </td>
+    <td>Gestión de clientes y seguimiento comercial.</td>
+    <td>Python · Streamlit · SQLite</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/camilaru15/MK-Sales-Assistant">
+        MK Sales Assistant
+      </a>
+    </td>
+    <td>Asistente de IA generativa con recuperación de información.</td>
+    <td>Python · Gemini · RAG · ChromaDB</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/camilaru15/proyecto_turismo_Europa">
+        Turismo en Europa
+      </a>
+    </td>
+    <td>Exploración y análisis de datos turísticos.</td>
+    <td>Análisis de datos</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/camilaru15/proyectoModularML">
+        Machine Learning — Online Retail
+      </a>
+    </td>
+    <td>Aprendizaje automático aplicado a datos comerciales.</td>
+    <td>Python · Machine Learning</td>
+  </tr>
+</table>
 
 ## 🎯 Intereses profesionales
 
