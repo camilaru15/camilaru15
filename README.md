@@ -34,30 +34,38 @@ generativa y geotecnología.
 
 ## 🛠️ Tecnologías y herramientas
 
-**Lenguajes y análisis de datos**
-- Python
-- SQL
-- Pandas
 
-**Business Intelligence**
-- Power BI
-- Visualización y modelado de datos
+## 🛠️ Tecnologías y herramientas
 
-**Machine Learning e IA generativa**
-- Machine Learning
-- Gemini
-- RAG
-- LangGraph
-- ChromaDB
-- Streamlit
+### 💻 Lenguajes y análisis de datos
 
-**Bases de datos**
-- SQLite
-- MySQL
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+</p>
 
-**Geotecnología**
-- Sistemas de Información Geográfica (SIG)
-- Análisis espacial
+### 📊 Business Intelligence
+
+<p>
+  <img src="https://img.shields.io/badge/Power_BI-E8C400?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=for-the-badge&logo=microsoftfabric&logoColor=white" alt="Microsoft Fabric" />
+</p>
+
+### 🤖 Inteligencia artificial
+
+<p>
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/LangGraph-159D85?style=for-the-badge&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/ChromaDB-E65B32?style=for-the-badge&logoColor=white" alt="ChromaDB" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+</p>
+
+### 🗺️ Geotecnología
+
+<p>
+  <img src="https://img.shields.io/badge/GIS-Geospatial-477A4B?style=for-the-badge" alt="Sistemas de Información Geográfica" />
+</p>
 
 ## 🚀 Proyectos destacados
 
