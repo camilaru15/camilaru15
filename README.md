@@ -34,9 +34,6 @@ generativa y geotecnología.
 
 ## 🛠️ Tecnologías y herramientas
 
-
-## 🛠️ Tecnologías y herramientas
-
 ### 💻 Lenguajes y análisis de datos
 
 <p>
@@ -66,10 +63,6 @@ generativa y geotecnología.
 <p>
   <img src="https://img.shields.io/badge/GIS-Geospatial-477A4B?style=for-the-badge" alt="Sistemas de Información Geográfica" />
 </p>
-
-## 🚀 Proyectos destacados
-
-
 
 ## 🚀 Proyectos destacados
 
